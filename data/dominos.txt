@@ -1,0 +1,6 @@
+ID,Address,Locality,LAT,LON
+1,Viman Nagar - Pune,Pune,18.565284,73.913326
+2,Senapati Bapat Road - Pune,Pune,18.534432,73.830696
+3,Pune Highway - Bhosari - Pune,Pimpri,18.648999,73.850210
+4,Chikhali Road Shahunagar - Chinchwad Pimpri Chinchwad,Pimpri,18.655997,73.810315
+5,Ravet - Chinchwad Pimpri Chinchwad,Pimpri,18.642943,73.755444
