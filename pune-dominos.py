@@ -38,4 +38,4 @@ map.add_child(fgdominos)
 map.add_child(fgpopulation)
 map.add_child(folium.LayerControl())
 
-map.save("Pune-map.html")
+map.save("pune-dominos.html")

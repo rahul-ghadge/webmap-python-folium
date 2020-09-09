@@ -5,4 +5,9 @@ Using `pandas` to read data from text file as multi dimentional array.
 
 After running `web-map.py` it will create `Pune-map.html` in same repository. Just opne that file in browser like below:
 
-http://localhost:63342/webmap-python-folium/Pune-map.html?_ijt=2npvb8ejn1cvjv7r9ga24j1kqa
+**Dominos in Pune:** http://localhost:63342/webmap-python-folium/pune-dominos.html?_ijt=hd00sl6qf7qe8auunffdea7o9i
+
+
+
+
+**World Population Density:** http://localhost:63342/webmap-python-folium/world-population.html?_ijt=hd00sl6qf7qe8auunffdea7o9i
