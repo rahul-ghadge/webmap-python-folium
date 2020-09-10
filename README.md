@@ -17,7 +17,7 @@ Using `pandas` to read data from text file as multi dimensional array.
 
 > run `world-population.py`
 
-After running both the files, it will create `world-population.html` in same repository. Just opne that file in browser like below:
+After running both the files, it will create `pune-dominos.html` and `world-population.html` in same repository. Just open those files in browser like below:
 
 **Domino's in Pune:**  
 http://localhost:63342/webmap-python-folium/pune-dominos.html?_ijt=hd00sl6qf7qe8auunffdea7o9i 
